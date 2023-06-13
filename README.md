@@ -1,4 +1,5 @@
 # Tugas HtML To Vue
+Menggunakan konsep kayak pratikum kemaren cuma hanya di ubah dikit
 
 ## Project setup
 ```
