@@ -1,4 +1,4 @@
-# tugas_vue
+# Tugas HtML To Vue
 
 ## Project setup
 ```
